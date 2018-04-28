@@ -5,3 +5,13 @@
 
 ## Introduction
 The Algorithm used to construct decision tree has complexity of O(n^2) since the dataset is small and `numpy` implementation optimized in O(n^2) algorithm.
+
+## Files
+
+```
+.
+├── dt.ipynb
+├── download.png
+├── dt.py
+└── README.md
+```
